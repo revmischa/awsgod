@@ -2,12 +2,21 @@
 layout: default
 ---
 
-## Hit me up
+<h2>Hit me up</h2>
 
 
 <form action="https://formspree.io/mischa@int80.biz"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <div>
+        Your name: <input type="text" name="name" />
+    </div>
+    <div>
+        Your email (so I can reply): <input type="email" name="_replyto" />
+    </div>
+    <div>
+        Your enquiry:<br/>
+        <textarea name="body" rows="10" cols="80"></textarea>
+    </div>
     <input type="submit" value="Send">
+    <input type="text" name="_gotcha" style="display:none" />
 </form>
