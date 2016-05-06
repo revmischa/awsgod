@@ -26,4 +26,4 @@ Review your infrastructure, cut down costs, validate security models, make recom
 I am not seeking long-term employment doing AWS management. You should have everything automated anyway. I will help you get there. I am first and foremost a lazy engineer.
 
 ### Sounds Interesting, Now What?
-[Hit me up](/contact) and we can chat and see if I can help you out. If I can't, no problemo.
+[Hit me up](contact) and we can chat and see if I can help you out. If I can't, no problemo.
