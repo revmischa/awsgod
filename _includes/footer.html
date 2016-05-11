@@ -8,6 +8,8 @@
           <li>{{ site.title }}</li>
           {% if site.email != null %}
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% else %}
+          <li><a href="{{ "/contact" | prepend: site.github.url }}">Contact</a></li>
           {% endif %}
         </ul>
       </div>
