@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## @revmischa - Amazon Web Services Thought Lord
+## [@revmischa](http://github.com/revmischa) - Amazon Web Services Thought Lord
 
 ### Who Am I?
 I am a software engineering professional based in San Francisco. I have a wealth of experience with software development and operations, and one of my specialties is AWS architecture and provisioning. I'm advertising my services as a consultant on designing, implementing, automating, improving and saving time and money with AWS. 
@@ -31,7 +31,7 @@ I am not seeking long-term employment doing AWS management. You should have ever
 * [Create RPMs](https://github.com/revmischa/lazyaws/tree/master/rpm) for instance configuration, dependencies, provisioning.
 * [Use Udo](https://github.com/revmischa/udo), a simple command-line interface for defining clusters and roles for instances using AutoScaling groups. Define packages to install and generate reusable cloud-init scripts for each cluster and role.
 * Create CloudWatch lambdas and alerts for monitoring and notifications.
-* Consolidate disparate services into PostgreSQL, which can act as your [pubsub message passing server](https://github.com/revmischa/pgnotify-demos), [full-text search](http://www.postgresql.org/docs/9.3/static/tsearch2.html) (still using ElasticSearch? for shame...), [JSONB](https://www.depesz.com/2014/03/25/waiting-for-9-4-introduce-jsonb-a-structured-format-for-storing-json/) for document stores and much much more. You are using PostgreSQL, right?
+* Consolidate disparate services into PostgreSQL, which can act as your [pubsub message passing server](https://github.com/revmischa/pgnotify-demos), [full-text search](http://www.postgresql.org/docs/9.3/static/tsearch2.html) (still using ElasticSearch? how quaint!), [JSONB](https://www.depesz.com/2014/03/25/waiting-for-9-4-introduce-jsonb-a-structured-format-for-storing-json/) for document stores and much much more. You *are* using PostgreSQL, right?
 
 ### What I Won't Do For you
 * Configure your Oracle license
